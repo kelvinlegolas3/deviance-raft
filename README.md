@@ -35,6 +35,6 @@ git push
 - _"Parked the Raft in an Island"_
 
 ## Reminders
-Make sure that you're always pulling the changes on this repository before hosting and making any necessary changes.
+Make sure that you're always pulling the changes of this repository before hosting and making any necessary changes.
 
 -- Kevin A.
