@@ -2,8 +2,8 @@
 A repository to Deviance RAFT© World
 
 ## Objectives
-- To allow contributors to "host" the latest changes of the Deviance world. 
-- Instead of having to wait for the main creator to launch the world, you can just get the latest save files in this repository and paste in your "World" folder. With that, you can launch RAFT© and host the Deviance world on your own.
+- To allow contributors to "host" the latest changes of the **Deviance** world. 
+- Instead of having to wait for the main creator to launch the world, you can just get the latest save files of this repository and paste in your "World" folder. With that, you can launch RAFT© and host the Deviance world on your own.
 
 ## How?
 1. Message me on discord if you would like to become a **contributor**. **Leonhardt#8582**
@@ -17,7 +17,7 @@ git pull
 ```
 4. Know your RAFT© World directory by simply launching the game and click "Load World" and then click "Open World Folder Path". 
 5. Copy the whole **Deviance** local repository folder and paste it in your **RAFT© World directory**.
-6. Launch the game and you should be able to see the **Deviance** world in the World list with the ***date time that mirrors closely to the commit date time in GitHub***.
+6. Launch the game and you should be able to see the **Deviance** world in the World list with the **date time that mirrors closely to the commit date time in GitHub**.
 7. From this point, you're now hosting the latest changes of the **Deviance** world. Any save game that you will make will create another save folder in your RAFT© Deviance world directory.
 8. If you're about to logout, **don't forget to save**.
 9. **Delete** all save files inside your **Deviance** folder (local repository) then go to your RAFT© World directory and copy all of the save files to your local repository. This is to make sure that there is only one **latest** folder.
