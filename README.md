@@ -1,4 +1,4 @@
-# RAFT© Deviance World Development
+# RAFT Deviance World Development
 A repository to Deviance RAFT© World
 
 ## Objectives
@@ -15,13 +15,14 @@ git clone https://github.com/kelvinlegolas3/deviance-raft.git.
 ```
 git pull
 ```
-4. Know your RAFT© World directory by simply launching the game and click "Load World" and then click "Open World Folder Path". 
+4. Know your RAFT© World directory by simply launching the game and then click "Load World". Finally, click "Open World Folder Path". 
 5. **Delete** all save files inside your **RAFT© World directory Deviance folder**, if there's any, then go to your **local repository Deviance folder** and copy all of the save files to your **RAFT© World directory Deviance folder**.
 6. Launch the game and you should be able to see the **Deviance** world in the World list with the **date time that mirrors closely to the commit date time in GitHub**.
-7. From this point, you're now hosting the latest changes of the **Deviance** world. Any save game that you will make from this point will create another save folder in your **RAFT© World directory Deviance folder**.
-8. If you're about to logout, **don't forget to save**.
-9. **Delete** all save files inside your **local repository Deviance folder** then go to your **RAFT© World directory Deviance folder** and copy all of the save files to your **local repository Deviance folder**. This is to make sure that there is only one **latest** folder.
-10. Commit and push your changes by entering this command: 
+7. Load the Deviance world.
+8. From this point, you're now hosting the latest changes of the **Deviance** world. Any save game that you will make from this point will create another save folder in your **RAFT© World directory Deviance folder**.
+9. If you're about to logout, **don't forget to save**.
+10. **Delete** all save files inside your **local repository Deviance folder** then go to your **RAFT© World directory Deviance folder** and copy all of the save files to your **local repository Deviance folder**. This is to make sure that there is only one **latest** folder.
+11. Commit and push your changes by entering this command: 
 ```
 git add -A
 git commit -m "I deleted the whole base guys"
