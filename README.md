@@ -17,8 +17,9 @@ git pull
 5. Copy the whole **Deviance** repository folder and paste it in your **RAFT© World directory**
 6. Launch the game and you should be able to see the **Deviance** world in the World list with the ***date time that mirrors closely to the commit date time in GitHub***.
 7. From this point, you're now hosting the latest changes of the **Deviance** world. Any save game that you make will create another save folder in your RAFT© Deviance World directory.
-8. If you're about to logout, **don't forget to save**. Go to your RAFT© World directory and copy all of the files to the repository.
-9. Commit and push your changes by doing this command: 
+8. If you're about to logout, **don't forget to save**.
+9. **DELETE** all save files in your repository then go to your RAFT© World directory and copy all of the files to the repository.
+10. Commit and push your changes by doing this command: 
 ```
 git add -A
 git commit -m "I deleted the whole base guys"
