@@ -1,5 +1,5 @@
 # Deviance World Development
-A repository to Deviance RAFT World
+A repository to Deviance RAFT© World
 
 ## Objectives
 - To allow contributors to "host" the latest changes of the Deviance world. 
@@ -13,11 +13,11 @@ A repository to Deviance RAFT World
 ```
 git pull
 ```
-4. Know your RAFT World directory by simply launching the game and click "Load World" and then click "Open World Folder Path". 
-5. Copy the whole **Deviance** repository folder and paste it in your **RAFT World directory**
+4. Know your RAFT© World directory by simply launching the game and click "Load World" and then click "Open World Folder Path". 
+5. Copy the whole **Deviance** repository folder and paste it in your **RAFT© World directory**
 6. Launch the game and you should be able to see the **Deviance** world in the World list with the ***date time that mirrors closely to the commit date time in GitHub***.
-7. From this point, you're now hosting the latest changes of the **Deviance** world. Any save game that you make will create another save folder in your RAFT Deviance World directory.
-8. If you're about to logout, **don't forget to save**. Go to your RAFT World directory and copy all of the files to the repository.
+7. From this point, you're now hosting the latest changes of the **Deviance** world. Any save game that you make will create another save folder in your RAFT© Deviance World directory.
+8. If you're about to logout, **don't forget to save**. Go to your RAFT© World directory and copy all of the files to the repository.
 9. Commit your changes by doing this command: 
 ```
 git commit -am "I deleted the whole base guys"
@@ -32,6 +32,6 @@ git commit -am "I deleted the whole base guys"
 - _"Parked the Raft in an Island"_
 
 ## Reminders
-Make sure that you're always pulling the changes (git pull) on this repository before hosting and making any necessary changes.
+Make sure that you're always pulling the changes on this repository before hosting and making any necessary changes.
 
 -- Kevin A.
