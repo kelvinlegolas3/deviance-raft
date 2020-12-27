@@ -3,8 +3,7 @@ A repository to Deviance RAFT© World
 
 ## Objectives
 - To allow contributors to "host" the latest changes of the Deviance world. 
-- Instead of having to wait for the main creator to launch the world, you can just get the latest save files in this repository and paste in your "World" folder.
-- That way, you can launch Raft and host it on your own.
+- Instead of having to wait for the main creator to launch the world, you can just get the latest save files in this repository and paste in your "World" folder. With that, you can launch RAFT© and host the Deviance world on your own.
 
 ## How?
 1. Message me on discord if you would like to become a **contributor**. **Leonhardt#8582**
