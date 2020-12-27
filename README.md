@@ -16,7 +16,7 @@ git pull
 4. Know your RAFT© World directory by simply launching the game and click "Load World" and then click "Open World Folder Path". 
 5. Copy the whole **Deviance** repository folder and paste it in your **RAFT© World directory**
 6. Launch the game and you should be able to see the **Deviance** world in the World list with the ***date time that mirrors closely to the commit date time in GitHub***.
-7. From this point, you're now hosting the latest changes of the **Deviance** world. Any save game that you make will create another save folder in your RAFT© Deviance World directory.
+7. From this point, you're now hosting the latest changes of the **Deviance** world. Any save game that you make will create another save folder in your RAFT© Deviance world directory.
 8. If you're about to logout, **don't forget to save**.
 9. **Delete** all save files inside your **Deviance** folder (local repository) then go to your RAFT© World directory and copy all of the save files to your local repository. This is to make sure that there is only one **latest** folder.
 10. Commit and push your changes by doing this command: 
@@ -27,7 +27,7 @@ git push
 ```
 
 ## Branches
-**master** - we can directly push our changes of the Deviance World. You may branch out if you want to start a world on your own.
+**master** - we can directly push our changes of the Deviance world to master branch. You may branch out if you want to start a world on your own.
 
 **Recommended commit messages**:
 - _"Sail moved to middle"_
