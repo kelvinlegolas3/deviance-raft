@@ -7,8 +7,11 @@ A repository to Deviance RAFT© World
 
 ## How?
 1. Message me on discord if you would like to become a **contributor**. **Leonhardt#8582**
-2. Clone the repository to your local: https://github.com/kelvinlegolas3/deviance-raft.git.
-3. Get the latest changes by doing this command: 
+2. If you're already a contributor, clone the repository to your local by entering this command: 
+```
+git clone https://github.com/kelvinlegolas3/deviance-raft.git.
+```
+3. Get the latest changes by entering this command: 
 ```
 git pull
 ```
@@ -18,7 +21,7 @@ git pull
 7. From this point, you're now hosting the latest changes of the **Deviance** world. Any save game that you will make will create another save folder in your RAFT© Deviance world directory.
 8. If you're about to logout, **don't forget to save**.
 9. **Delete** all save files inside your **Deviance** folder (local repository) then go to your RAFT© World directory and copy all of the save files to your local repository. This is to make sure that there is only one **latest** folder.
-10. Commit and push your changes by doing this command: 
+10. Commit and push your changes by entering this command: 
 ```
 git add -A
 git commit -m "I deleted the whole base guys"
