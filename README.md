@@ -27,9 +27,9 @@ git commit -am "I deleted the whole base guys"
 **master** - we can directly push our changes of the Deviance World. You may branch out if you want to start a world on your own.
 
 **Recommended commit messages**:
-- _ _Sail moved to middle_ _
-- _ _Snatched all the planks in Storage room_ _
-- _ _Parked the Raft in an Island_ _
+- _"Sail moved to middle"_
+- _"Snatched all the planks in Storage room"_
+- _"Parked the Raft in an Island"_
 
 ## Reminders
 Make sure that you're always pulling the changes (git pull) on this repository before hosting and making any necessary changes.
