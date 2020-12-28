@@ -40,4 +40,4 @@ git push
 ## Reminders
 Make sure that you're always pulling the changes of this repository before hosting and making any necessary changes.
 
--- Kevin A.
+-- Leonhardt
